@@ -10,12 +10,12 @@ By extrapolating data from a wide range of Kickstarter campaigns, I aim to assis
 Initial analysis of the specific criteria Louise is working toward indicates three trends of near-certainty: campaigns for plays do not cancel, summer campaigns are the most successful, and campaigns are more successful when the final goal is less than $15,000. 
 
 ### Analysis of Outcomes Based on Launch Date
-!Resources/Theater_Outcomes_vs_Launch.png 
+![Outcomes VS Launch Date] (Resources/Theater_Outcomes_vs_Launch.png) 
 
 As a whole, the present data indicates that the most successful campaigns for theater products begin in May or June, and plays fare slightly better in May. That said, May is also the launch month of the most failures for plays, as well as the highest number of campaign launches which can lead to oversaturation (see below.) My direct advisement to Louise is to begin their campaign in late April so that outreach can begin before the rush in May.
 
 ### Analysis of Outcomes Based on Goals
-!Resources/Outcomes_vs_Goals.png
+![Outcomes VS Goals] (Resources/Outcomes_vs_Goals.png)
 The data is very clear when it comes to the “sweet spot” of plays being successfully funded: aiming to acquire less than ten thousand dollars is ideal. In fact, the most successful goal is two thousand dollars, with three thousand as a close second. Be that as it may, that is hardly enough money to launch a production with big-ticket assets, so perhaps it is best that the client is very honest about the budget constraints of the play itself. Naturally, there are outliers that indicate a lofty campaign goal can be funded, even up to sums greater than 35 thousand dollars. However, these particular campaigns often tout an average donation much higher than those with lower goals, some upwards of $500. Unfortunately, the data present is insufficient to reveal if these high averages come from a handful of multi-thousand dollar donations.
 
 ### Challenges and Difficulties Encountered
